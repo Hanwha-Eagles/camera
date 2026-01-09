@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Large files / Models
+*.pt
+*.onnx
+
+# SSL Certs (if any)
+*.pem
+*.key
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
